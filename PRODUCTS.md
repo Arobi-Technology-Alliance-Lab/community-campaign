@@ -58,13 +58,13 @@ an AI system. Arobi is not an insurer and does not bind coverage.
 **Planned**: a link between Arobi and [gno.land](https://gno.land), the smart-contract platform written in Gno. None of
 it is available yet.
 
-- Pay for an Arobi service, Whisper first, with GNOT, gno.land's coin. The service checks the payment itself, from the
-  receipt and gno.land's own records, before it grants anything.
-- Anchor Arobi evidence on gno.land, so that anyone holding a receipt can later check that a record existed by a given
-  time, without asking Arobi.
+- Pay for an Arobi service, Whisper first, with GNOT, gno.land's coin. The service will check the payment itself, from
+  the receipt and gno.land's own records, before it grants anything.
+- Anchor Arobi evidence on gno.land, so that anyone holding a receipt could later check that a record existed by a
+  given time, without asking Arobi.
 
-No bridge and no wrapped coin: proof crosses between the two networks, value does not. AURA stays inside the Arobi
-economy, as it is today. gno.land and GNOT are named here only to say what this work connects to; see
+The design has no bridge and no wrapped coin: proof would cross between the two networks, value would not. AURA stays
+inside the Arobi economy, as it is today. gno.land and GNOT are named here only to say what this work connects to; see
 [LEGAL.md](LEGAL.md).
 
 ## Research
@@ -76,3 +76,8 @@ directions, not product claims.
 
 Product details change as releases ship; the current state is always on [aura-genesis.org](https://aura-genesis.org).
 Internal architecture, implementation and customer information stay private.
+
+## Important
+
+This repository is information about Arobi. It is not an offer to sell, or a solicitation of an offer to buy, any
+security, and it does not accept money, investments, reservations or commitments of any kind. See [LEGAL.md](LEGAL.md).
