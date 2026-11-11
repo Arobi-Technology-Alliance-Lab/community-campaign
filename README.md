@@ -46,9 +46,9 @@ useful at scale, and then went and built it. [BUILDERS.md](BUILDERS.md) tells th
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/hue-full.svg" alt="Element 1, Hue: Computer" width="120"></td>
-    <td align="center" width="33%"><img src="assets/ullumii-desktop-full.svg" alt="Element 2, Ul: Desktop" width="120"></td>
-    <td align="center" width="33%"><img src="assets/jaws-browser-full.svg" alt="Element 3, Jw: Browser" width="120"></td>
+    <td align="center" width="33%"><img src="assets/hue-full.png" alt="Element 1, Hue: Computer" width="120"></td>
+    <td align="center" width="33%"><img src="assets/ullumii-desktop-full.png" alt="Element 2, Ul: Desktop" width="120"></td>
+    <td align="center" width="33%"><img src="assets/jaws-browser-full.png" alt="Element 3, Jw: Browser" width="120"></td>
   </tr>
 </table>
 
