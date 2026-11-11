@@ -28,3 +28,8 @@ made in place and marked as corrections.
   in the Arobi element-chart style: the three pillars as elements Si, Ab and Su, standing on Trust + Assurance.
 - **How we know:** this commit.
 - **What remains open:** issues and contributions stay closed until contribution terms are published.
+
+## Important
+
+This repository is information about Arobi. It is not an offer to sell, or a solicitation of an offer to buy, any
+security, and it does not accept money, investments, reservations or commitments of any kind. See [LEGAL.md](LEGAL.md).
