@@ -53,6 +53,20 @@ for it.
 **Available**: evidence packs that give underwriters and procurement reviewers the technical evidence they ask for about
 an AI system. Arobi is not an insurer and does not bind coverage.
 
+## gno.land: pay with GNOT, prove on gno.land
+
+**Planned**: a link between Arobi and [gno.land](https://gno.land), the smart-contract platform written in Gno. None of
+it is available yet.
+
+- Pay for an Arobi service, Whisper first, with GNOT, gno.land's coin. The service checks the payment itself, from the
+  receipt and gno.land's own records, before it grants anything.
+- Anchor Arobi evidence on gno.land, so that anyone holding a receipt can later check that a record existed by a given
+  time, without asking Arobi.
+
+No bridge and no wrapped coin: proof crosses between the two networks, value does not. AURA stays inside the Arobi
+economy, as it is today. gno.land and GNOT are named here only to say what this work connects to; see
+[LEGAL.md](LEGAL.md).
+
 ## Research
 
 Model orchestration, memory, agent reliability, autonomous operations and robotics assurance. These are research
